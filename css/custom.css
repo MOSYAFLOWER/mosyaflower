@@ -1,0 +1,235 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Kosugi Maru', sans-serif;
+  line-height: 150%
+}
+
+header{
+  background-color: #ffc0cb;
+  color: white;
+  text-align: center;
+}
+
+.top{
+  padding-top: 200px;
+}
+
+.F{
+  font-size: 100px;
+}
+
+.image{
+  padding-top: 300px;
+  padding-bottom: 60px;
+}
+
+.imageA{
+  height: 50px;
+}
+
+.imageB{
+  height: 75px;
+}
+
+
+header p{
+  margin-bottom: 0px;
+}
+
+.reigai{
+  padding-bottom: 60px;
+}
+
+.container-fluid{
+  overflow:hidden;
+  padding: 0px;
+}
+
+
+.row{
+  color: white;
+}
+
+.serviceA{
+  background-color: #dda0dd;
+  padding: 75px 50px 400px 50px;
+}
+
+.serviceB{
+  background-color: #89c3eb;
+  padding: 75px 50px 400px 50px;
+
+}
+
+.serviceC{
+  background-color: #946243;
+  padding: 75px 50px 400px 50px;
+}
+
+.service{
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 100px;
+}
+
+.serviceD{
+  background-color: #dcdcdc;
+  color: black;
+  text-align: center;
+  padding-top: 75px;
+  padding-bottom: 50px;
+}
+
+.circle{
+  font-size: 200px;
+}
+
+
+.serviceE{
+  color: #696969;
+  text-align: center;
+  padding-top: 150px;
+  padding-bottom: 50px;
+}
+
+.serviceF{
+  background-color: #ffc0cb;
+  color: #696969;
+  padding-bottom: 100px;
+}
+
+
+
+.Ftop{
+  padding-top: 150px;
+  padding-bottom: 150px;
+  text-align: center;
+}
+
+.Ftitle{
+  text-align: center;
+}
+
+.bodyF{
+  max-width: 400px;
+  min-width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+
+
+.serviceG{
+  background-color: #d3d3d3;
+  color: black;
+}
+
+.Gbody{
+  padding-bottom: 100px;
+  max-width: 400px;
+  min-width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  overflow:hidden;
+  padding-left: 35px;
+  padding-right: 35px;
+
+}
+
+
+.Gtop{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+
+.iconservice{
+  text-align: center;
+}
+
+.serviceicon{
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  padding-top: 10px;
+}
+
+.off{
+  background-color: white;
+  padding: 8px;
+}
+
+.price{
+text-align: center;}
+
+.kikan{
+  border: solid 2px;
+  width: 100px;
+  text-align: center;
+}
+
+.gentei{
+  display: inline-block;
+}
+
+
+.title{
+  background-color: #f4a460;
+}
+
+#tuduku{
+  text-align: center;
+}
+
+.serviceH{
+  color: #000000;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.Hbody{
+  text-align: center;
+  color: #000000;
+  padding-top: 50px;
+}
+
+.titleH{
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.title{
+  text-align: center;
+}
+
+.last{
+  padding-top: 50px;
+  padding-bottom: 200px;
+}
+
+footer{
+  background-color: #696969;
+  color: white;
+  text-decoration: none;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  padding-left: auto;
+}
+
+footer a:hover{
+  text-decoration: none;
+}
+
+.foot{
+  padding-bottom: 200px;
+  margin: 0 auto;
+}
+
+.copyright{
+  text-align: center;
+}
+
